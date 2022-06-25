@@ -1,4 +1,4 @@
-package com.diegodiniz.couse.services;
+package com.diegodiniz.couse.repositories.services;
 
 import com.diegodiniz.couse.entities.User;
 import com.diegodiniz.couse.repositories.UserRepository;
