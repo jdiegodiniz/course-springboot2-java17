@@ -1,7 +1,7 @@
 package com.diegodiniz.couse.resources;
 
 import com.diegodiniz.couse.entities.User;
-import com.diegodiniz.couse.repositories.services.UserService;
+import com.diegodiniz.couse.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

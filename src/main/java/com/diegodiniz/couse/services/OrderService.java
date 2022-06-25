@@ -1,4 +1,4 @@
-package com.diegodiniz.couse.repositories.services;
+package com.diegodiniz.couse.services;
 
 import com.diegodiniz.couse.entities.Order;
 import com.diegodiniz.couse.repositories.OrderRepository;

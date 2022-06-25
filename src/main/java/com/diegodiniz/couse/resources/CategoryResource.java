@@ -1,7 +1,7 @@
 package com.diegodiniz.couse.resources;
 
 import com.diegodiniz.couse.entities.Category;
-import com.diegodiniz.couse.repositories.services.CategoryService;
+import com.diegodiniz.couse.services.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
